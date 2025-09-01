@@ -80,7 +80,7 @@ When I’m not in the lab, I’m usually learning for the next certification, te
 
 <!-- Snake contribution graph -->
 <p align="center">
-  <img src="https://github.com/maxdorx/maxdorx/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/maxdorx/maxdorx/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
