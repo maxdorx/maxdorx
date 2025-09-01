@@ -34,8 +34,15 @@ When I’m not in the lab, I’m usually learning for the next certification, te
 
 ### 🧰 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco,linux,redhat,ubuntu,windows,git,github,aws,azure,docker,vmware,powershell,bash,python" />
+  <!-- skillicons: supported ones -->
+  <img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,git,github,aws,azure,docker,powershell,bash,python" />
+
+  <!-- simpleicons: missing vendors -->
+  <img src="https://cdn.simpleicons.org/vmware/607078" height="48" title="VMware" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" title="Cisco" />
+  <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="48" title="Fortinet" />
 </p>
+
 
 ---
 
